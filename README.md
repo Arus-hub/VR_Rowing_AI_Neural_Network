@@ -13,13 +13,13 @@ The crux of this study lies in harnessing the power of C# to capture live VR hea
 
 ## Technology Used
 * Game Engine: Unity
-  ![Screenshot](ImgUp/Unity.png)
+  ![Screenshot](ImgUp/Unity.jpg)
 * ML Framework: TensorFlow
 * VR Headset: Oculus Quest 2
 * VS Code
 * Google Collab
 * NatML
-  ![Screenshot](ImgUp/NatML.png)
+  ![Screenshot](ImgUp/NatML.jpg)
 
 ## Design and Development
 ### Design
@@ -31,6 +31,7 @@ Created a virtual rowing environment within Unity that mimics real-world rowing 
 Attention was paid to the visual and interactive aspects to ensure a high degree of realism and user engagement.
 
 ![Screenshot](ImgUp/Environment.png)
+![Screenshot](ImgUp/Environment 2.png)
 
 #### Rowing Shell Design:
 
