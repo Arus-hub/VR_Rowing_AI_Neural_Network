@@ -8,14 +8,18 @@ This project is an exploration into combining Virtual Reality (VR) and Machine L
 ## Abstract
 The crux of this study lies in harnessing the power of C# to capture live VR headset IMU readings, which are then stored in CSV format. A custom ML model, trained using TensorFlow, predicts navigational outcomes that control the in-game boat's direction and speed, all integrated within Unity via the NatML framework. The results demonstrate that our ML model effectively translates head movements into meaningful in-game actions, significantly enhancing VR gaming interaction and intuitiveness.
 
+## Flowchart
+![Screenshot](ImgUp/Full.png)
 
 ## Technology Used
 * Game Engine: Unity
+  ![Screenshot](ImgUp/Unity.png)
 * ML Framework: TensorFlow
 * VR Headset: Oculus Quest 2
 * VS Code
 * Google Collab
 * NatML
+  ![Screenshot](ImgUp/NatML.png)
 
 ## Design and Development
 ### Design
@@ -26,11 +30,14 @@ The design phase of this project was integral in creating an immersive and reali
 Created a virtual rowing environment within Unity that mimics real-world rowing conditions. This involved designing water textures, environmental elements, and physics to simulate the natural rowing experience.
 Attention was paid to the visual and interactive aspects to ensure a high degree of realism and user engagement.
 
+![Screenshot](ImgUp/Environment.png)
+
 #### Rowing Shell Design:
 
 Developed a detailed 3D model of a rowing shell, incorporating aspects such as size, weight, and aesthetics to replicate an actual rowing boat.
 Integrated the rowing shell model with the physics engine of Unity to ensure realistic movement and response to user inputs.
-
+![Screenshot](ImgUp/SMooth.png)
+![Screenshot](ImgUp/mechanics.png)
 
 ### Development
 The development phase involved a series of steps, each critical to the project's success:
