@@ -31,7 +31,7 @@ Created a virtual rowing environment within Unity that mimics real-world rowing 
 Attention was paid to the visual and interactive aspects to ensure a high degree of realism and user engagement.
 
 ![Screenshot](ImgUp/Environment.png)
-![Screenshot](ImgUp/Environment 2.png)
+![Screenshot](ImgUp/Environment%202.png)
 
 #### Rowing Shell Design:
 
