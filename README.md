@@ -19,7 +19,7 @@ The crux of this study lies in harnessing the power of C# to capture live VR hea
 * VS Code
 * Google Collab
 * NatML
-  ![Screenshot](ImgUp/Full.png)
+<img src="ImgUp/NatML.jpg" width="400" height="250" alt="Alt text">
 ![Screenshot](ImgUp/NatML.jpg)
 
 ## Design and Development
