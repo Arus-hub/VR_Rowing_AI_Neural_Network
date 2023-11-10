@@ -15,12 +15,13 @@ The crux of this study lies in harnessing the power of C# to capture live VR hea
 * Game Engine: Unity
 <img src="ImgUp/Unity.jpg" width="400" height="250" alt="Alt text">
 * ML Framework: TensorFlow
+  <img src="[ImgUp/Unity.jpg](https://en.wikipedia.org/wiki/TensorFlow#/media/File:TensorFlow_logo.svg)" width="400" height="250" alt="Alt text">
 * VR Headset: Oculus Quest 2
 * VS Code
 * Google Collab
 * NatML
 <img src="ImgUp/NatML.jpg" width="400" height="250" alt="Alt text">
-![Screenshot](ImgUp/NatML.jpg)
+
 
 ## Design and Development
 ### Design
