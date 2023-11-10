@@ -3,7 +3,7 @@
 By Aradhya Talawar
 
 ## Overview
-This project is an exploration into combining Virtual Reality (VR) and Machine Learning (ML) to create a realistic rowing simulation. The aim is to simulate the experience of using a two-oar rowing machine, focusing on real-time boat navigation using IMU data from the Oculus Quest 2 VR headset within a Unity-based game environment. Our approach eliminates the need for additional sensors on the oars, using ML algorithms to estimate the boat's direction and speed based solely on the headset's IMU readings.
+This project is an exploration into combining Virtual Reality (VR) and Machine Learning (ML) to create a realistic rowing simulation. The aim is to simulate the experience of using a two-oar rowing machine, focusing on real-time boat navigation using IMU data from the Oculus Quest 2 VR headset within a Unity-based game environment. This approach eliminates the need for additional sensors on the oars, using ML algorithms to estimate the boat's direction and speed based solely on the headset's IMU readings.
 
 ## Abstract
 The crux of this study lies in harnessing the power of C# to capture live VR headset IMU readings, which are then stored in CSV format. A custom ML model, trained using TensorFlow, predicts navigational outcomes that control the in-game boat's direction and speed, all integrated within Unity via the NatML framework. The results demonstrate that our ML model effectively translates head movements into meaningful in-game actions, significantly enhancing VR gaming interaction and intuitiveness.
