@@ -69,7 +69,7 @@ Focused on developing a model that accurately interprets IMU data while maintain
 ![Screenshot](ImgUp/model%20t%20p.png)
 
 * Flowchart for training the model and then exporting it in .onyx and .tflite files to make predictions in game.
-![Screenshot](ImgUp/Model%20Training%20and%Exporting.png)
+![Screenshot](ImgUp/Model%20Training%20and%20Exporting.png)
 
 #### Integration with Unity using NatML:
 
@@ -91,4 +91,4 @@ The project successfully translated VR headset IMU data into precise control ove
 ![Screenshot](ImgUp/accuracy.png)
 ![Screenshot](ImgUp/Outputs%20being%20generated.png)
 
-Find the apk in the master repo currnetly you are in main.
+Find the apk in the master repo currently you are in main.
