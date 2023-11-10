@@ -7,6 +7,9 @@ This project is an exploration into combining Virtual Reality (VR) and Machine L
 ### Data Collection Video
 https://youtu.be/R9O--jS1IAI
 
+### Application/ Project testing
+https://youtu.be/YfSFr9rhgZ4
+
 ## Abstract
 The crux of this study lies in harnessing the power of C# to capture live VR headset IMU readings, which are then stored in CSV format. A custom ML model, trained using TensorFlow, predicts navigational outcomes that control the in-game boat's direction and speed, all integrated within Unity via the NatML framework. The results demonstrate that our ML model effectively translates head movements into meaningful in-game actions, significantly enhancing VR gaming interaction and intuitiveness.
 
