@@ -89,5 +89,5 @@ Iteratively refined both the machine learning model and the Unity environment ba
 
 The project successfully translated VR headset IMU data into precise control over the rowing simulation, overcoming challenges such as smooth boat movement, proper data formatting, and efficient development methodology.
 ![Screenshot](ImgUp/accuracy.png)
-![Screenshot](ImgUp/Outputs$20being%20generated.png)
+![Screenshot](ImgUp/Outputs%20being%20 generated.png)
 Find the apk in the master repo currnetly you are in main.
